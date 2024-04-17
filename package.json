@@ -11,9 +11,10 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "prepare": "husky"
   },
-  "husk": {
+  "husky": {
     "hooks": {
       "pre-commit": "npm test"
     }
