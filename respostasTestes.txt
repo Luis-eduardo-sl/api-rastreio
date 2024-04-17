@@ -1,0 +1,11 @@
+1) Com base na sua implementação e análise da API de rastreio  (no contexto de rastreio de entregas) é um software CORRETO ou CERTO ? Justifique a sua resposta.
+Certo, ele é util para o cliente
+
+2) Considerando a sua implementação dos testes classifique os testes realizados de acordo coma as seguintes categorias (divisões): Nível de teste, Técnica de teste e Tipo de teste
+Nível de teste: unitario
+Técnica de teste: black-box
+Tipo de teste: usabilidade
+
+3) Considerando TDD, o que poderia ser feito para um ou mais dos teste implementados falhar e demandar a refatoração do código (visando melhoria de qualidade do software)
+Introduzir erros na implementação da API e verificar se os testes detectam esses erros.
+
